@@ -1,0 +1,1 @@
+Meu projeto foi feito com a ajuda do alura e minha professora. Não é original meu, se quiser um igual fiz "copiando" da unidade "Listas, funções e repetição: criando um jogo de corrida" do alura, há apenas certas alterações como os emojis e as cores de fundo, coisas básicas.
